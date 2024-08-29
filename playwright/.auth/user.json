@@ -1,0 +1,233 @@
+{
+  "cookies": [
+    {
+      "name": "OMG-Channel-2307094",
+      "value": "Channel%3D",
+      "domain": "track.omguk.com",
+      "path": "/",
+      "expires": 1728295331.970345,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "spses.a16d",
+      "value": "*",
+      "domain": ".kpc-dev.com",
+      "path": "/",
+      "expires": 1723113132,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userjournies",
+      "value": "6d9f112d-c80e-4da4-be60-9b4cc6698d93",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1725703332,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sp",
+      "value": "78753c22-1b80-464e-85c2-6dfb1863991d",
+      "domain": ".kpc-dev.com",
+      "path": "/",
+      "expires": 1754647332.23747,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uxid",
+      "value": "4a62f71e-34a3-4948-9837-5d441d599ef6",
+      "domain": "webtrafficsource.com",
+      "path": "/",
+      "expires": 1754647320.598133,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "superuser",
+      "value": "5b3bf199-ae22-4557-896a-5f8585c50b50",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1725703332,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_id_t",
+      "value": "00accf16-4f4f-4287-ac4a-7c1b1bf5fbaa",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1725703332,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ai_user",
+      "value": "H4DpwnltBNt1tG6weOVmCi|2024-08-08T10:02:06.561Z",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1754647326.561518,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "value": "8a78e7fe6cfb7272790b43bfc5b9072e42a7861b03bed591fc8ef3ea93da2cb7%7Cf9167228495f4fb549c1e84211c69433ac89880dafaec7f70c44f35b68c8899e",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "value": "https%3A%2F%2Fdev-web-frontend.firster.kpc-dev.com",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OnetrustActiveGrp",
+      "value": "C0001",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "accessToken",
+      "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6InFTWW1DV1RKQy02bHhNMzRKMWRramNya3BWMWFrQ0I2NmE5X2lLZnJtMGMiLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiI1MzFiZGY0MC00NDZjLTQyMzUtOTlmYS0wZjAwZDM4ODc5NGUiLCJlbWFpbCI6InFhLnRlc3QwMkBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsIm5iZiI6MTcyMzExMTMzMCwiZXhwIjoxNzIzNzE2MTMwLCJpYXQiOjE3MjMxMTEzMzAsImlzcyI6ImZpcnN0ZXIuYXV0aGVudGljYXRpb24ifQ.Zk0IkBsJ2XUMW4Ff2RM66Kf4HacV3atiKsr_ENNpdn2TP4F6VnzY1tgGZy-xThutwkCTLWMBmKG7AhOcO793cQrfJoZDIoJWcia1-0Qbo4DIZhabg29l_KHkw2zxx7qAtNFKTPTxx2e-E4FGkIrL60_Xy9UXoD-ovU-6ffvYPGMAk5EzUX_V5bBazm1WlFsWCmI4aYldgb44wPInUQo7fnEAM_vJIYujitZZmzF0EUz2272h9M9l8M1dNrfyFOqHrvcJnpGqk7SGvYVLio87vwMoCiNFOT6hCQwR7tqRDr5Zj4p_nI23eoY5GRZOKTzaC6PHnvX8698Rsj4NpOcBuQ",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "refreshToken",
+      "value": "BjRoevqp2dhwbvJ3fVX4qG9U3fLNv8JFCs0NXeIAoI72sHTdGcqg3YI4k7u9kd34Tcus56fBMXPiIHlwLrHTSmLnk5nauJaLOCiQWkiJ6oUgIkvcV7x2VkmrQGI9SFRD",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user.viewProfile.userProfile.data",
+      "value": "N4IgDgTg9gbglgEwKYQM4gFwG0C6AaEAYwFdUAXKAWxQEkFMQBWAZgEYAjBAMwBYAGALQ8eANkJCATM0YCAnLK4BDAXy58+CZgA4tAdlk8kIAkkqK4AGwYBHRQDoyScnwkABAOZnLdwlWMh3JAA7ZAgGLlNFCyMCAAtFGCQABUVUVAB3KAh6DDIIYiQCOFQAMTg0RwgAYSgg1GCyAEFCQiQwRxy8gqLS8vIUAFlTdhQauobm1vakHKULep6BxQgAayQyOCD3Mfqgppa2jswuwpBigah2SyQAOWJKEYhmjcTMOYWQageUTCDiCwsBEol2ud2+YQwfwBBDAsVqSBqyF+-wsAF8gA",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "spid.a16d",
+      "value": "16689f8c-2116-4976-b7fc-814cce3a0c63.1723111326.1.1723111332.1723111326.4e4ece34-2ec4-404d-9196-e0288fd422f9",
+      "domain": ".kpc-dev.com",
+      "path": "/",
+      "expires": 1757671332.199373,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ai_session",
+      "value": "BHV44yipLgtW6FAbUyqXtm|1723111326723|1723111332253",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1723113132.253542,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OMGID",
+      "value": "UUserID%3D%7B258b4b1c-4d79-4b05-bdd2-a278b37b693c%7D%26ReadCount%3D3",
+      "domain": "track.omguk.com",
+      "path": "/",
+      "expires": 1728295332.295239,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OMGSession",
+      "value": "SessionID%3D3a8755d50d66426899aa6f40a6d4967e%26SessionCount%3D3",
+      "domain": "track.omguk.com",
+      "path": "/",
+      "expires": 1723113132.295302,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isIABGlobal=false&datestamp=Thu+Aug+08+2024+17%3A02%3A12+GMT%2B0700+(Indochina+Time)&version=6.36.0&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0007%3A0&AwaitingReconsent=false",
+      "domain": ".firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1754647332,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userjournies_id",
+      "value": "{\"unique_id\":\"66b497a420d87839598a5d90\",\"type\":\"other\"}",
+      "domain": "dev-web-frontend.firster.kpc-dev.com",
+      "path": "/",
+      "expires": 1723111337,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "RT",
+      "value": "\"z=1&dm=kpc-dev.com&si=6ef6ab50-ced7-41ab-922e-5642ad21b1a2&ss=lzl3zpbr&sl=2&tt=629&bcn=https%3A%2F%2Feum.kingpowerclick.com%2Fbeacon%2F&ld=8e5\"",
+      "domain": ".kpc-dev.com",
+      "path": "/",
+      "expires": 1723716132,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://dev-web-frontend.firster.kpc-dev.com",
+      "localStorage": [
+        {
+          "name": "snowplowOutQueue_snowplow_com.kingpowerclick.firster_ecom_post2.expires",
+          "value": "1786183332254"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_com.kingpowerclick.firster_ecom_post2",
+          "value": "[]"
+        },
+        {
+          "name": "nextauth.message",
+          "value": "{\"event\":\"session\",\"data\":{\"trigger\":\"getSession\"},\"timestamp\":1723111332}"
+        }
+      ]
+    }
+  ]
+}
