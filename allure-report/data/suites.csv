@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2590","get started link","chromium","Thu Aug 29 10:10:19 ICT 2024","passed","Thu Aug 29 10:10:21 ICT 2024","Using Authentication Status","example.spec.ts","",""
+"","5231","has title","chromium","Thu Aug 29 10:10:07 ICT 2024","passed","Thu Aug 29 10:10:13 ICT 2024","Using Authentication Status","example.spec.ts","",""
